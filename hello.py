@@ -8,6 +8,14 @@
 
 # mais um comentario
 
+#exemplo apenas para a versao 1 do curso
+
+x=1
+y=2
+z=x+y
+print(z)
+
+
 # Arrays 
 
 x = object()
